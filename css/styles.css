@@ -1,0 +1,36 @@
+body {
+  background-color: #F0F5F9;
+  color: #52616B;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted darkgray;
+  border-width: 5px;
+  height: 2px;
+  width: 5%;
+}
+
+img {
+  height: 300px;
+}
+
+h1 {
+  color: #52616B;
+}
+
+h3 {
+  color: #52616B;
+}
+
+a:link {
+  color: #1E2022;
+}
+
+a:visited {
+  color: #C9D6DF;
+}
+
+a:hover {
+  color: pink;
+}
